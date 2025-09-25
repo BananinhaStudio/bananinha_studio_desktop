@@ -95,7 +95,7 @@ BEGIN
             VALUE "InternalName", "bananinha_studio" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 br.com.softyes. All rights reserved." "\0"
             VALUE "OriginalFilename", "bananinha_studio.exe" "\0"
-            VALUE "ProductName", "bananinha_studio" "\0"
+            VALUE "ProductName", "Bananinha" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

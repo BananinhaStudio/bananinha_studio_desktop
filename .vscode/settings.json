@@ -2,7 +2,8 @@
   "dart.flutterSdkPath": ".fvm/versions/3.35.4",
   "cSpell.words": [
     "APPL",
-    "cupertino"
+    "cupertino",
+    "softyes"
   ],
   "makefile.configureOnOpen": false
 }
