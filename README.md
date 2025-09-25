@@ -1,16 +1,36 @@
-# bananinha_studio
+<img width="100" height="100" src="readme/logo.png" alt="app logo">
 
-A new Flutter project.
+# Bananinha Studio | Desktop
 
-## Getting Started
+![License](https://img.shields.io/github/license/BananinhaStudio/bananinha_studio_desktop)
+![Contributions Status](https://img.shields.io/badge/contributions-Closed-red)
 
-This project is a starting point for a Flutter application.
+Um editor de imagens simples e integrado ao Google Gemini 2.5 Flash Image (Nano Banana).
 
-A few resources to get you started if this is your first Flutter project:
+## 🧰 Recursos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Em breve...
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧑‍💻 Tecnologias
+
+[![Made with Dart](https://img.shields.io/badge/frontend-Dart-yellow)]((https://dart.dev/))
+[![Made with Flutter](https://img.shields.io/badge/frontend-Flutter-yellow)]((https://flutter.dev/))
+[![style: very good analysis](https://img.shields.io/badge/code_style-Very_Good_Analysis-B22C89.svg)](https://pub.dev/packages/very_good_analysis)
+
+* [Dart(>=3.9.2)](https://dart.dev/)
+* [Flutter(>=3.35.4)](https://flutter.dev/)
+
+## 🖥️ Plataformas
+
+* macOS(>=12.4) 🟡
+* Ubuntu(>=22.04) 🟡
+* Windows(>=10.0) ✅
+
+## 📷 Imagens
+
+Em breve...
+
+## 📜 Créditos
+
+* SoftYes TI [\<softyes.com.br\>](https://softyes.com.br)
+* João Sereia [\<joao.sereia@softyes.com.br\>](mailto:joao.sereia@softyes.com.br)
